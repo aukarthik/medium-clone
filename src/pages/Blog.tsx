@@ -18,6 +18,7 @@ export default function Blog(){
 </div>
         </div>
     }
+    if(!blog) return <div>Error: No blog found</div>
     return (
         <>
         <Blogcomponent blog={blog}/>

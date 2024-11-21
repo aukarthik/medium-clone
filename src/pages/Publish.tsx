@@ -63,12 +63,3 @@ required>
         </div>
     )
 }
-
-function TextEditor(){
-return (
-    <>
-    
-
-    </>
-)
-}
